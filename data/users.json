@@ -1,0 +1,77 @@
+[
+    {
+        "created_at": "2020-03-25T21:52:02.034Z",
+        "email": "testuser3@example.com",
+        "email_verified": false,
+        "identities": [
+            {
+                "connection": "bioReference-patients",
+                "user_id": "5e7bd2823a136e0c5d42acb9",
+                "provider": "auth0",
+                "isSocial": false
+            }
+        ],
+        "name": "testuser1@example.com",
+        "nickname": "testuser1",
+        "picture": "https://s.gravatar.com/avatar/00cf67f11825cff61d337a44312bea0f?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fte.png",
+        "updated_at": "2020-03-25T21:53:52.968Z",
+        "user_id": "auth0|5e7bd2823a136e0c5d42acb9",
+        "user_metadata": {
+            "address1": "123 MAIN STREET",
+            "city": "CHAPPAQUA",
+            "dateOfBirth": "01/02/1966",
+            "firstName": "Test",
+            "gender": "Female",
+            "idologyVerificationDetails": "Bulk Load Test",
+            "idologyVerificationNumber": "123456789012",
+            "idologyVerificationTimestamp": "01/02/2020",
+            "idologyVerified": true,
+            "lastName": "User 1",
+            "phoneNumber": "1234567890",
+            "state": "NY",
+            "zip": "10514"
+        },
+        "app_metadata": {
+        },
+        "blocked_for": [],
+        "guardian_authenticators": []
+    },
+    {
+        "created_at": "2020-03-25T21:52:24.771Z",
+        "email": "testuser4@example.com",
+        "email_verified": false,
+        "identities": [
+            {
+                "connection": "bioReference-patients",
+                "user_id": "5e7bd29896d0a60c6396fd37",
+                "provider": "auth0",
+                "isSocial": false
+            }
+        ],
+        "name": "testuser2@example.com",
+        "nickname": "testuser2",
+        "picture": "https://s.gravatar.com/avatar/890d68c14900f8589336533fc6a0be38?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fte.png",
+        "updated_at": "2020-03-25T21:54:58.135Z",
+        "user_id": "auth0|5e7bd29896d0a60c6396fd37",
+        "user_metadata": {
+            "address1": "222 MAIN STREET",
+            "city": "CHAPPAQUA",
+            "dateOfBirth": "12/02/1996",
+            "firstName": "Test",
+            "gender": "Female",
+            "idologyVerificationDetails": "Bulk Load Test",
+            "idologyVerificationNumber": "123456789013",
+            "idologyVerificationTimestamp": "01/02/2020",
+            "idologyVerified": true,
+            "lastName": "User 2",
+            "phoneNumber": "1234567890",
+            "state": "NY",
+            "zip": "10514"
+        },
+        "app_metadata": {
+        },
+        "blocked_for": [],
+        "guardian_authenticators": []
+    }
+
+]
