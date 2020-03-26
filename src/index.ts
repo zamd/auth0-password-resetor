@@ -4,6 +4,7 @@ import rp from "request-promise-native";
 import yargs from "yargs";
 import { config } from "dotenv";
 import createDebug from "debug";
+import allSettled from "promise.allsettled";
 
 const debug = createDebug("bioreference");
 config();
